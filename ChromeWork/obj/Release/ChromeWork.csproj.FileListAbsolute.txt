@@ -1,0 +1,17 @@
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\ChromeWork.dll.config
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\ChromeWork.dll
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\ChromeWork.pdb
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\EntityFramework.dll
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\System.Data.SQLite.dll
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\EntityFramework.xml
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\System.Data.SQLite.xml
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\bin\Release\System.Data.SQLite.dll.config
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\obj\Release\ChromeWork.csprojAssemblyReference.cache
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\obj\Release\ChromeWork.csproj.CoreCompileInputs.cache
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\obj\Release\ChromeWork.csproj.CopyComplete
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\obj\Release\ChromeWork.dll
+C:\Users\BlackSun\RiderProjects\ChromeWork\ChromeWork\obj\Release\ChromeWork.pdb
