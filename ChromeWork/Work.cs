@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.Remoting.Messaging;
+using System.Linq;
 using System.Text;
 
 namespace ChromeWork
@@ -30,6 +30,9 @@ namespace ChromeWork
 
                         var decodedData = System.Security.Cryptography.ProtectedData.Unprotect(encryptedData, null, System.Security.Cryptography.DataProtectionScope.CurrentUser);
                         var plainText = Encoding.ASCII.GetString(decodedData);
+                        string[] filterScreen = {reader.GetString(2), reader.GetString(0), plainText};
+                        if(filterScreen.Contains(null) && filter) { }
+                        else
                         yield return Tuple.Create(reader.GetString(2),reader.GetString(1), plainText);   
                     }
                 }
@@ -61,6 +64,9 @@ namespace ChromeWork
                         var decodedData = System.Security.Cryptography.ProtectedData.Unprotect(encryptedData, null, System.Security.Cryptography.DataProtectionScope.CurrentUser);
                         var plainText = Encoding.ASCII.GetString(decodedData);
 
+                        string[] filterScreen = {reader.GetString(2), reader.GetString(0), plainText};
+                        if(filterScreen.Contains(null) && filter) { }
+                        else
                         yield return Tuple.Create(reader.GetString(2), reader.GetString(0), plainText);
                     }
                 }
